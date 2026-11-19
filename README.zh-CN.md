@@ -1,7 +1,5 @@
 # server-sent-events
 
-**支持：**[问题与反馈](https://github.com/turlamai/server-sent-events/issues) · [当前交付策略](https://github.com/turlamai/turlamai.github.io/blob/master/PORTFOLIO.zh-CN.md)
-
 [English](README.md) · **中文**
 
 [![CI](https://github.com/turlamai/server-sent-events/actions/workflows/ci.yml/badge.svg)](https://github.com/turlamai/server-sent-events/actions/workflows/ci.yml)
